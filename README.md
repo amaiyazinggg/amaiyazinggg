@@ -1,6 +1,6 @@
 # heyyy, I am Amaiya Singhal 
 ### Junior Computer Science Undergraduate at IIT Delhi
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaymittal&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaymittal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaiyazinggg&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaymittal" /> </p>
 
 
 <!--
