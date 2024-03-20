@@ -12,6 +12,11 @@
 </a>
 </p>
 
+<h3 align="left">Connect with me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/amaiysinghal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amaiya Singhal" height="30" width="40" /></a>
+</p>
+
 <p float="float" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=amaiyazinggg&show_icons=true&locale=en" alt="amaiyazinggg" width="320"  height="320"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amaiyazinggg&show_icons=true&locale=en&layout=compact" alt="amaiyazinggg" width="240"  height="320"/>
