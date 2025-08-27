@@ -4,7 +4,7 @@
 <!--
 **amaiyazinggg/amaiyazinggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 I’m currently learning Machine Learning, Deep Learning and am interested in Computer Vision and Natural Language Processing
+- 🌱 Software Engineering
 - 📫 How to reach me: **amaiya.iitdelhi@gmail.com**
 
 <h3 align="left">Currently Working with</h3>
